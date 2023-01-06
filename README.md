@@ -1,4 +1,4 @@
-# ZOMATO-RESTAURANT-CLUSTERING-AND-SENTIMENT-ANALYSIS
+# Zomato Restuarant-Clustering & Sentiment Anaysis
 
 # Problem Statement
 
