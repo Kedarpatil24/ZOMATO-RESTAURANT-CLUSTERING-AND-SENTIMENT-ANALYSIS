@@ -52,6 +52,11 @@ Pictures : No. of pictures posted with review
 ![203756413-3da57f98-94f5-4435-b35d-608559863de8](https://user-images.githubusercontent.com/111070329/211979438-630e916f-70e2-461c-a689-98ec3e0c52cc.png)
 ![203756593-a34e565a-ba59-4c2b-aecd-a27597273406](https://user-images.githubusercontent.com/111070329/211979446-0b1fd084-81db-4c32-950d-84d0f72deb56.png)
 
+# Conclusion
 
+The best restaurants in Hyderabad are AB's - Absolute Barbecues, B-Dubs, and 3B's - Buddies, Bar & Barbecue.
+The most popular cuisines are North Indian, Chinese, Continental, and Hyderabadi.
+The restaurants in Hyderabad have a per person cost range of 150 INR to 2800 INR. The cheapest is the food joint called Mohammedia Shawarma and the costliest restaurant is Collage - Hyatt Hyderabad Gachibowli.
+Based on basic cost-benefit analysis it can be concluded that it is important to separate out the restaurants with the lowest rating in order to improve its overall customer experience. These restaurants were small food joints or restaurants with high prices according to the food they are serving. Efforts should be made to advertise more and analyze the reviews, especially for these restaurants, and work on them.
 
 
