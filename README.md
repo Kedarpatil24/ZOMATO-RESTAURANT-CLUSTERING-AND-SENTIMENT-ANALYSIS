@@ -59,4 +59,10 @@ The most popular cuisines are North Indian, Chinese, Continental, and Hyderabadi
 The restaurants in Hyderabad have a per person cost range of 150 INR to 2800 INR. The cheapest is the food joint called Mohammedia Shawarma and the costliest restaurant is Collage - Hyatt Hyderabad Gachibowli.
 Based on basic cost-benefit analysis it can be concluded that it is important to separate out the restaurants with the lowest rating in order to improve its overall customer experience. These restaurants were small food joints or restaurants with high prices according to the food they are serving. Efforts should be made to advertise more and analyze the reviews, especially for these restaurants, and work on them.
 
+# References 
+
+GeekforGeeks (https://www.geeksforgeeks.org/removing-stop-words-nltk-python/?ref=lbp)
+Kaggle
+Analytics Vidya
+
 
