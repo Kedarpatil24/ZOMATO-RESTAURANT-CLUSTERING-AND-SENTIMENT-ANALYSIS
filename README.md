@@ -45,6 +45,11 @@ Time: Date and Time of Review
 
 Pictures : No. of pictures posted with review
 
+# Visualization
+
+![203756413-3da57f98-94f5-4435-b35d-608559863de8](https://user-images.githubusercontent.com/111070329/211979438-630e916f-70e2-461c-a689-98ec3e0c52cc.png)
+![203756593-a34e565a-ba59-4c2b-aecd-a27597273406](https://user-images.githubusercontent.com/111070329/211979446-0b1fd084-81db-4c32-950d-84d0f72deb56.png)
+
 
 
 
