@@ -47,6 +47,29 @@ Time: Date and Time of Review
 
 Pictures : No. of pictures posted with review
 
+# Steps Involved
+
+I. Exploratory Data Analysis:
+Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypotheses and to check assumptions with the help of summary statistics and graphical representations.It gives us better idea of which feature behaves in which manner compared to target variable.
+
+II. Data Cleaning:
+In this process we drop unnecessary columns and convert some columns in useful format.
+
+III. Features Selection:
+The feature selection process is based on a specific machine learning algorithm that we are trying to fit on a given dataset. It follows a greedy search approach by evaluating all the possible combinations of features against the evaluation criterion.
+For sentiment analysis, we have used rating and reviews features. - For clustering we got cost, cuisine and timing of the restaurant as the features to build the model.
+
+IV. Text Pre-processing:
+Text processing is essential for NLP algorithms. It contains Removing punctuation, removing stop words and lemmatization.
+
+V. Fitting Models for sentiment and clustering:
+At first we tried the MultinomialNB model for   sentiment analysis and then used a Random Forest Classifier, XGB Model, Support Vector Machine and compared the results. For clustering of cuisines we used K-Means clustering and PCA(Principal Component Analysis).
+
+# Clustering Algorithms
+
+I. K-Means Clustering
+II. K-Means Clustering with PCA
+
 # Visualization
 
 ![203756413-3da57f98-94f5-4435-b35d-608559863de8](https://user-images.githubusercontent.com/111070329/211979438-630e916f-70e2-461c-a689-98ec3e0c52cc.png)
