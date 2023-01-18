@@ -62,7 +62,7 @@ Based on basic cost-benefit analysis it can be concluded that it is important to
 # 📜 Credits
 Kedar Patil | Data Science Enthusiast
 
-www.linkedin.com/in/kedarpati24 | github.com/Kedarpatil24
+www.linkedin.com/in/kedarpati24
 
 
 # 📚 References 
